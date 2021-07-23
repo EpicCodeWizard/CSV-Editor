@@ -1,7 +1,7 @@
 {
   "name": "CSV-Editor",
   "main": "./lib/CSVEditor",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Edit CSV files using a atom. From https://github.com/k-utsumi/atom-tablr. Just republished for easier access.",
   "repository": "https://github.com/EpicCodeWizard/CSV-Editor",
   "license": "MIT",
