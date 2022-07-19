@@ -1,7 +1,7 @@
 {
   "name": "CSV-Editor",
   "main": "./lib/tablr",
-  "version": "1.8.6",
+  "version": "1.8.7",
   "description": "Edit CSV files using a table editor. From https://github.com/mfripp/atom-tablr.",
   "repository": "https://github.com/EpicCodeWizard/CSV-Editor",
   "license": "MIT",
