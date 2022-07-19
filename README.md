@@ -1,6 +1,6 @@
 Edit CSV files using a table editor.
 
-![CSV Opener](http://abe33.github.io/atom-tablr/tablr.gif)
+![CSV Opener](data:text/plain;base64,SGVsbG8sIFdvcmxkIQ==)
 
 ### Installation
 
